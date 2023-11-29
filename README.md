@@ -7,7 +7,7 @@ To run this demo, make sure you have Streamlit installed in your Python environm
 ## Run the App
 To run the app, execute the following command in your terminal: streamlit run app.py
 
-Visit the provided URL in your web browser to interact with the Q&A app.
+Visit the provided URL in your web browser to interact with the Simple Conversational app.
 
 Feel free to explore the capabilities of the OpenAI language model and enjoy generating responses to your queries! If you encounter any issues or have suggestions, please let us know.
 
