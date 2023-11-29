@@ -1,10 +1,10 @@
 # Simple Conversational App using LLM
 Welcome to the Simple Conversatinal app using LLM, a web application showcasing the power of language models through Streamlit. This app leverages the Streamlit library to provide a user-friendly interface for interacting with the OpenAI language model.
 
-### Getting Started
+## Getting Started
 To run this demo, make sure you have Streamlit installed in your Python environment. If not, you can install it using: pip install streamlit Additionally, the LangChain demo relies on the LangChain library, which includes a language model from OpenAI.
 
-### Run the App
+## Run the App
 To run the app, execute the following command in your terminal: streamlit run app.py
 
 Visit the provided URL in your web browser to interact with the Q&A app.
